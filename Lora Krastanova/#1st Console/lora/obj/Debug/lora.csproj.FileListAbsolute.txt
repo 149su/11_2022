@@ -1,0 +1,6 @@
+D:\11+12\current\11_2022\Lora Krastanova\lora\lora\bin\Debug\lora.exe.config
+D:\11+12\current\11_2022\Lora Krastanova\lora\lora\bin\Debug\lora.exe
+D:\11+12\current\11_2022\Lora Krastanova\lora\lora\bin\Debug\lora.pdb
+D:\11+12\current\11_2022\Lora Krastanova\lora\lora\obj\Debug\lora.csprojResolveAssemblyReference.cache
+D:\11+12\current\11_2022\Lora Krastanova\lora\lora\obj\Debug\lora.exe
+D:\11+12\current\11_2022\Lora Krastanova\lora\lora\obj\Debug\lora.pdb
